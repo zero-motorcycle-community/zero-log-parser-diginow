@@ -135,7 +135,7 @@ events.on(
                             }
                         );
                         
-                        //console.log(obj);
+                        console.log(obj);
                             
                         logInfo.push(
                             obj
@@ -143,7 +143,7 @@ events.on(
                     }    
                 );
                 
-                //console.log(logInfo);
+                console.log(logInfo);
                 
                 json2csv(
                     {
