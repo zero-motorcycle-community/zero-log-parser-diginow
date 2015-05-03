@@ -1,0 +1,31 @@
+.outputTable{
+    border-spacing: 0px;
+    margin:0;
+    width:100%;
+    top:30px;
+    left:0;
+    padding:0;
+    border:none;
+}
+
+.outputTableHead{
+    background:rgb(200,200,250);
+    border:1px solid rgb(100,100,100);
+    position:fixed;
+    width:100%;
+    z-index:100000;
+}
+
+div{
+    border:1px solid rgb(100,100,160);
+    padding:5px;
+    display:inline-block;
+}
+
+body * {
+    position: relative;
+}
+
+body{
+    margin:0;
+}
